@@ -90,7 +90,7 @@ Metrics analyzed:
 ### **Google Colab for Easy Testing** 🖥️
 Run the benchmark notebook in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cIjXMNYWoC4hjuurjtvcxtsUBYPbvTJO?usp=sharing)
 
 ---
 
