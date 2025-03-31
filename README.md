@@ -12,7 +12,7 @@ Key highlights:
 
 
 ## **Work Under Progress** 🛠️
-- [ ] **Sliding Window Attention** for improved efficiency in long sequences.
+- [x] **Sliding Window Attention** 
 - [ ] **MoBA (Mixture of Block Attention)** to enhance block-wise computations for better performance.
 
 ---
