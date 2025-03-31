@@ -40,7 +40,7 @@ def _attn_fwd_inner(
     for start_kv in range(lo, hi, BLOCK_SIZE_KV):
         # Just let the compiler know that start_n is a multiple of BLOCK_N, so the compiler can do optimizations
         start_kv = tl.multiple_of(start_kv, BLOCK_SIZE_KV)
-
+ 
         # -- compute qk ----
         K_block = tl.load(K_block_ptr)
         QK_block = tl.dot(Q_block, K_block)
